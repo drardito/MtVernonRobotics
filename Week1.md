@@ -25,8 +25,11 @@ Follow [these directions] (http://learn.makeblock.cc/get-started/) to put togeth
 
 ###Write your first programs
 Follow the direction on [this page] (http://learn.makeblock.cc/mbot/) to write your first programs.
+
 1. [Line Following] (http://learn.makeblock.cc/mbot-line-following-car/)
+
 2. [Music Car] (http://learn.makeblock.cc/mbot-music-car/)
+
 3. [Obstacle Avoidance] (http://learn.makeblock.cc/mbot-obstacle-avoidance/)
 
 ###Beyond the first programs
