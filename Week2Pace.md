@@ -24,3 +24,6 @@ You can do whichever ones you wish, but you MUST successfully complete:
 ##What's Next
 When you work your way through each of these, it's time for a mini-challenge - a race.
 For details, see Chapter 14.
+
+##Leaving Breadcrumbs
+To complete this work, upload your code for these programs, along with photos and/or video of your robot at work, and a reflection to Pace Commons.
