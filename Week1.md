@@ -21,16 +21,16 @@ This week, we will be doing a bunch of things.
 3. Complete the team worksheet
 
 ###Assemble your mBot
-Follow [these directions] (http://learn.makeblock.cc/get-started/) to put together your mBot.
+Follow [these directions] (http://learn.makeblock.com/mbot-get-started/) to get an overview of your mBot. You will also find a link for directions to put together your mBot.
 
 ###Write your first programs
-Follow the direction on [this page] (http://learn.makeblock.cc/mbot/) to write your first programs.
+Follow the direction on [this page] (http://learn.makeblock.cc/mbot/) to write your first programs. Be sure to do the additional challenges at the end of each activity.
 
-1. [Line Following] (http://learn.makeblock.cc/mbot-line-following-car/)
+1. [LED Display] (http://learn.makeblock.com/en/robot-kits/mbot/the-led-display/)
 
-2. [Music Car] (http://learn.makeblock.cc/mbot-music-car/)
+2. [Play Music] (http://learn.makeblock.com/en/robot-kits/mbot/play-music/)
 
-3. [Obstacle Avoidance] (http://learn.makeblock.cc/mbot-obstacle-avoidance/)
+3. [Move in a Circle] (http://learn.makeblock.com/en/robot-kits/mbot/move-in-a-circle/)
 
 ###Beyond the first programs
 If you get through all three of these first programs, you are ready for the mBot book of activities.
