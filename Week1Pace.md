@@ -1,27 +1,12 @@
 #Week 1
-![mBot unassembled](http://cdn1.bigcommerce.com/server2600/4r4weyxd/product_images/uploaded_images/penguin.jpg)
+![mBot unassembled](http://learn.makeblock.com/wp-content/uploads/2015/05/mBot-2.4G.jpg)
 
-This week, we will be doing a bunch of things.
-
-1. We will be introduced to the mBot.
-
-2. We will create groups and pick a team name.
-
-3. We will assemble the mBot.
-
-4. We will learn to program.
-
-##Getting Started
-
-###Create a Team
-1. Organize yourself into groups of 3 team members.
-
-2. Decide on a name for your team.
-
-3. Complete the team worksheet
 
 ###Assemble your mBot
 Follow [these directions] (http://learn.makeblock.com/mbot-get-started/) to get an overview of your mBot. You will also find a link for directions to put together your mBot.
+
+###Install MakeBlock software
+Follow [these directions] (http://www.mblock.cc/download/) to install the Makeblock software on your computer.
 
 ###Write your first programs
 Follow the direction on [this page] (http://learn.makeblock.cc/mbot/) to write your first programs. Be sure to do the additional challenges at the end of each activity.
