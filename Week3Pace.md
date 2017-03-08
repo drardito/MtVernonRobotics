@@ -13,7 +13,7 @@ Then, you will share your work. See below for details.
 You are going to share your work in a variety of ways:
   1. **Reflect.** You will maintain a reflective journal via blog posts on [Pace Commons](/http://pacecommons.org/). Use his journal to share about your learning and challenges and learning from challenges.
   2. **Upload.**  You will share your code with us by uploading it somewhere and then posting a link on Pace Commons. 
-  3. **Show and Tell.** When your robot is doing what you want it to do, please make a video and share it with us on Pace Commons.
+  3. **Show and Tell.** When your robot is doing what you want it to do, please take photos and videos and share them with us on Pace Commons.
 
 ##Learning in Community
 One of the best pedagogical things are teaching with robotics is the way that a community gets formed. I encourage you to reach out to me and each other as you are working with your robotics. The more the merrier!
