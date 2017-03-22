@@ -2,7 +2,7 @@
 
 #Welcome to Week 3!
 After all the preparation and learning you have been doing, it is time to attack the two challenges: **Dance Off** and **Dealer's Choice**.
-You can see the challenges [here] (https://github.com/drardito/MtVernonRobotics/blob/master/Overview.md).
+You can see the challenges [here] (https://github.com/drardito/MtVernonRobotics/blob/master/OverviewPace.md).
 For the **Dealer's Choice Challenge,** feel free to design something you might want to use with your students.
 
 ##A Week of Challenges
