@@ -22,7 +22,7 @@ In the Dealer's Choice Challenge, you and will program your robot to do somethin
 ## The Program
 Here is what we will be up to each week of the program.
 
-### [Week 1](https://github.com/drardito/MtVernonRobotics/blob/master/Week1Pace.md)
+### [Week 1](/Week1Pace.md)
 1. Introduction to this robotics program.
 2. Introduction to the mBot.
 3. Basics of programming your mBot.
